@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
+	<a href="https://www.arduino.cc/en/software" target="_blank"><img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" /></a>
 </p>
 
 Arduino is an open-source physical computing platform based on a simple I/O
